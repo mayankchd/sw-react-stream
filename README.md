@@ -7,6 +7,8 @@ All credit to [this article](https://jakearchibald.com/2016/streams-ftw/) by [Ja
 #####Note: You'll need Chrome Canary with chrome://flags/#enable-experimental-web-platform-features enabled.
 [Live Demo](https://sw-react-stream.herokuapp.com/)
 
+For running locally
+
 ```
 git clone https://github.com/mayankchd/sw-react-stream.git
 cd sw-react-stream
