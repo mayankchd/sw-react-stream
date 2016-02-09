@@ -1,7 +1,7 @@
 # sw-react-stream
 Streaming server rendered react response inside Service Workers!
 
-All credit to [Jake Archibald](https://github.com/jakearchibald)
+All credit to [this article](https://jakearchibald.com/2016/streams-ftw/) by [Jake Archibald](https://github.com/jakearchibald)
 
 
 #####Note: You'll need Chrome Canary with chrome://flags/#enable-experimental-web-platform-features enabled.
