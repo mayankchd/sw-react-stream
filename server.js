@@ -47,6 +47,7 @@ app.get('/sw-stream-render', (req, res) => {
   });
 });
 
-app.listen(8000, (error) => {
+var port = process.env.PORT || 3000;
+app.listen(port, (error) => {
   console.log(error)
 });
